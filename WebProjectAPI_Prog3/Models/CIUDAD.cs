@@ -31,5 +31,9 @@ namespace WebProjectAPI_Prog3.Models
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<USER_POSTER> USER_POSTER { get; set; }
-    }
+
+       
 }
+
+    }
+
